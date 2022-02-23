@@ -1,7 +1,7 @@
 
 
 <h3 align="center">👋 발전을 꿈꾸는 사람입니다.</h3>
-<p align="center"> 아직 잘하지는 못하지만, 조금씩 앞으로 나아가려고 노력 중입니다.<br> 오늘도 잘 배워갑니다.😊</p>
+<h4 align="center"> 아직 잘하지는 못하지만, 조금씩 앞으로 나아가려고 노력 중입니다.<br> 오늘도 잘 배워갑니다.😊</h4>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
