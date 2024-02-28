@@ -12,11 +12,10 @@
 ✔️ '23 ICPC Seoul Regional 본선 진출 (Ilgam Rangers) <br>
 ✔️ '23 ICPC Seoul Regional 본선 33위 <br>
 ✔️ '24 HULT PRIZE KONKUK 3위 <br>
+✔️ '24 PathPal(Google Solution Challenge) Backend developer <br>
 ✔️ '23-'24 Google Developer Student Club (Backend member) <br>
-✔️ '23- GreenMate(Startup) CTO <br>
 ✔️ '23- PlayKuround(APP, renewing) Backend developer <br>
 ✔️ '24- Rounder(Startup) Backend developer <br>
-✔️ '24- PathPal(Google Solution Challenge) Backend developer <br>
 
 ---
 
