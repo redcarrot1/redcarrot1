@@ -11,8 +11,8 @@
 ✔️ '23 건국대학교 프로그래밍 경진대회(KUPC) 문제 사전 테스터 및 대회 운영진 <br>
 ✔️ '23 ICPC Seoul Regional 본선 진출 (Ilgam Rangers) <br>
 ✔️ '23 ICPC Seoul Regional 본선 33위 <br>
-✔️ '24 HULT PRIZE KONKUK 3위 <br>
 ✔️ '23 GreenMate(Startup) Backend developer <br>
+✔️ '24 HULT PRIZE KONKUK 3위 <br>
 ✔️ '24 PathPal(Google Solution Challenge) Backend developer <br>
 ✔️ '23-'24 Google Developer Student Club (Backend member) <br>
 ✔️ '23- PlayKuround(APP, renewing) Backend developer <br>
