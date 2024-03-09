@@ -10,8 +10,7 @@
 ✔️ '23 교내 알고리즘 동아리(Alkon) 운영진 및 멘토 <br>
 ✔️ '23 건국대 해커톤(오케스트라 1악장), '고봉밥' 팀장 및 Backend developer <br>
 ✔️ '23 건국대학교 프로그래밍 경진대회(KUPC) 문제 사전 테스터 및 대회 운영진 <br>
-✔️ '23 ICPC Seoul Regional 본선 진출 (Ilgam Rangers) <br>
-✔️ '23 ICPC Seoul Regional 본선 33위 <br>
+✔️ '23 ICPC Seoul Regional 본선 진출 (Ilgam Rangers, 33위) <br>
 ✔️ '23 GreenMate(preliminary start-up) Backend developer <br>
 ✔️ '23-'24 Google Developer Student Club (Backend member) <br>
 ✔️ '24 HULT PRIZE KONKUK 3위 <br>
