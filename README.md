@@ -17,7 +17,7 @@
 ✔️ '24 HULT PRIZE KONKUK 3위 <br>
 ✔️ '24 PathPal(Google Solution Challenge) Backend developer <br>
 ✔️ '23- PlayKuround(App, version 2) Backend developer <br>
-✔️ '24- Rounder(Startup) Backend developer <br>
+✔️ '24- Rounder(preliminary start-up) Backend developer <br>
 
 ---
 
