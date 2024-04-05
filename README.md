@@ -14,7 +14,7 @@
 ✔️ '23 GreenMate(preliminary start-up) Backend developer <br>
 ✔️ '23-'24 Google Developer Student Club (Backend member) <br>
 ✔️ '24 HULT PRIZE KONKUK 3위 <br>
-✔️ '24 PathPal(Google Solution Challenge) Backend developer <br>
+✔️ '24 PathPal(Google Solution Challenge) Backend developer [Global Top 100 진입]<br>
 ✔️ '23- PlayKuround(App, version 2) Backend developer <br>
 ✔️ '24- Rounder(preliminary start-up) Backend developer <br>
 
