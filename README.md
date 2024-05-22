@@ -15,7 +15,7 @@
 ✔️ '23-'24 Google Developer Student Club (Backend member) <br>
 ✔️ '24 HULT PRIZE KONKUK 3위 <br>
 ✔️ '24 Rounder(start-up) Backend developer <br>
-✔️ '24 PathPal(Google Solution Challenge) Backend developer [Global Top 100 진입](https://developers.google.com/community/gdsc-solution-challenge/winners?hl=ko)<br>
+✔️ '24 PathPal(Google Solution Challenge) Backend developer [[Global Top 100 진입](https://developers.google.com/community/gdsc-solution-challenge/winners?hl=ko)]<br>
 ✔️ '23- PlayKuround(App, version 2) Backend developer [[건국대 공식 인터뷰](https://blog.naver.com/PostView.naver?blogId=dreamkonkuk&logNo=223448999922)]<br>
 
 ---
