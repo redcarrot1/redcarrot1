@@ -4,9 +4,10 @@
 <h2> Interested in </h2>
 
 - Back-end Application
-- Algorithm
-- Distributed Systems
 - Computer Science
+- Distributed Systems
+- Algorithm
+
 
 <h2>Major Tech Stack</h2>
 <p>
